@@ -1,0 +1,32 @@
+/* ... Estilos anteriores ... */
+
+.services {
+    background-color: #252525; /* Cor de fundo da seção de serviços */
+    padding: 40px;
+    text-align: center;
+}
+
+.services h2 {
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.service {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.service h3 {
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+.service p {
+    color: #ccc;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+/* ... Estilos de responsividade ... */
